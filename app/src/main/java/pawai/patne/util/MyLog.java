@@ -1,4 +1,4 @@
-package jp.takke.util;
+package pawai.patne.util;
 
 import android.annotation.SuppressLint;
 import android.util.Log;

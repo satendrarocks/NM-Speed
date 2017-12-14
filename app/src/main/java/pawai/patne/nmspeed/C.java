@@ -1,4 +1,4 @@
-package jp.takke.datastats;
+package pawai.patne.nmspeed;
 
 public class C {
     public static final String PREF_KEY_DEBUG_MODE = "debugMode";

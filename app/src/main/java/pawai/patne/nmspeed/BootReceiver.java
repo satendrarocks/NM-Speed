@@ -1,4 +1,4 @@
-package jp.takke.datastats;
+package pawai.patne.nmspeed;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-import jp.takke.util.MyLog;
+import pawai.patne.util.MyLog;
 
 public class BootReceiver extends BroadcastReceiver {
 

@@ -1,4 +1,4 @@
-package jp.takke.datastats;
+package pawai.patne.nmspeed;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

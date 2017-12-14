@@ -1,4 +1,4 @@
-package jp.takke.util;
+package pawai.patne.util;
 
 import android.content.Context;
 import android.os.Environment;

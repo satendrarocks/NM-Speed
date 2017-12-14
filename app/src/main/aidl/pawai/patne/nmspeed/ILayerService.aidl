@@ -1,5 +1,5 @@
 // ILayerService.aidl
-package jp.takke.datastats;
+package pawai.patne.nmspeed;
 
 oneway interface ILayerService {
 

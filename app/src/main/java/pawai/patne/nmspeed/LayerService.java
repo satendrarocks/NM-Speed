@@ -1,4 +1,4 @@
-package jp.takke.datastats;
+package pawai.patne.nmspeed;
 
 import android.app.AlarmManager;
 import android.app.NotificationChannel;
@@ -26,7 +26,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 
-import jp.takke.util.MyLog;
+import pawai.patne.util.MyLog;
 
 public class LayerService extends Service implements View.OnAttachStateChangeListener {
 

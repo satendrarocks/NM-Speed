@@ -1,4 +1,4 @@
-package jp.takke.datastats;
+package pawai.patne.nmspeed;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

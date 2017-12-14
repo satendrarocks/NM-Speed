@@ -1,4 +1,4 @@
-package jp.takke.datastats;
+package pawai.patne.nmspeed;
 
 import android.app.Activity;
 import android.content.ComponentName;
@@ -27,8 +27,8 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.ZoomControls;
 
-import jp.takke.util.MyLog;
-import jp.takke.util.TkConfig;
+import pawai.patne.util.MyLog;
+import pawai.patne.util.TkConfig;
 
 
 public class MainActivity extends Activity {

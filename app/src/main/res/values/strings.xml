@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">DataStats</string>
+    <string name="app_name">NM-Speed</string>
 
     <string name="config_config">Config</string>
     <string name="config_start">Start</string>

@@ -1,4 +1,4 @@
-package jp.takke.datastats;
+package pawai.patne.nmspeed;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -19,7 +19,7 @@ import android.view.SurfaceView;
 
 import java.util.LinkedList;
 
-import jp.takke.util.MyLog;
+import pawai.patne.util.MyLog;
 
 public class MySurfaceView extends SurfaceView implements SurfaceHolder.Callback, Runnable {
 

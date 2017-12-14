@@ -1,4 +1,4 @@
-package jp.takke.util;
+package pawai.patne.util;
 
 public class TkConsts {
     public static final String LOG_NAME = "DataStats";

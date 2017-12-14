@@ -1,11 +1,11 @@
-package jp.takke.datastats;
+package pawai.patne.nmspeed;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-import jp.takke.util.MyLog;
-import jp.takke.util.TkConfig;
+import pawai.patne.util.MyLog;
+import pawai.patne.util.TkConfig;
 
 public class Config {
     
