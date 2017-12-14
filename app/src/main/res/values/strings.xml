@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DataStats</string>
+
+    <string name="config_config">Config</string>
+    <string name="config_start">Start</string>
+    <string name="config_stop">Stop</string>
+    <string name="config_restart">Restart</string>
+    <string name="config_debug_mode">Debug Mode</string>
+    <string name="config_text_size">TextSize</string>
+    <string name="config_auto_start_on_boot">Auto start on boot</string>
+    <string name="config_hide_when_in_fullscreen">Hide when in fullscreen</string>
+    <string name="config_interval">Interval</string>
+    <string name="config_pos">X Position</string>
+    <string name="config_bar_max_kb">Max Speed[KB](Bar)</string>
+    <string name="config_unit_type">Unit Type</string>
+    <string name="config_logarithm_bar">Logarithm bar</string>
+    <string name="config_interpolate">Interpolate(notice battery life)</string>
+    <string name="config_resident">Resident</string>
+
+    <string name="preview">Preview</string>
+    <string name="resident_service_running">Running DataStats service</string>
+
+</resources>
